@@ -1,4 +1,4 @@
-# MyApp
+# Task Tracker on Angular: used JSON-SERVER, Angular Font Awesome, Router,etc...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
